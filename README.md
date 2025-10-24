@@ -48,7 +48,7 @@ UI Design: XML with modern and responsive layouts
 
 Clone the repository:
 
-git clone https://github.com/yourusername/android-login-app.git
+git clone https://github.com/uzaiirrrrrrr/login_app
 
 
 Open the project in Android Studio.
